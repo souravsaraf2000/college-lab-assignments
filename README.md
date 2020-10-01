@@ -1,2 +1,2 @@
 # college-lab-assignments
-The lab and theory assignment solutions of Cse branch of Techno India University.
+The lab and theory assignment solutions of Computer Science and Engineering branch of Techno India University,West Bengal.
